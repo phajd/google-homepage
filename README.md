@@ -1,0 +1,1 @@
+This is a duplicate of the Google Homepage, designed by peterh as a part of The Odin Project course.
